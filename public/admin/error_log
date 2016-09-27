@@ -1,0 +1,6 @@
+[18-Aug-2016 12:26:11 UTC] PHP Notice:  Undefined variable: message in /home/mikster3420/public_html/ecom/public/admin/users.php on line 19
+[18-Aug-2016 12:26:11 UTC] PHP Notice:  Undefined variable: users in /home/mikster3420/public_html/ecom/public/admin/users.php on line 39
+[18-Aug-2016 12:26:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mikster3420/public_html/ecom/public/admin/users.php on line 39
+[25-Sep-2016 15:44:17 UTC] PHP Notice:  Undefined variable: message in /home/mikster3420/public_html/ecom/public/admin/users.php on line 19
+[25-Sep-2016 15:44:17 UTC] PHP Notice:  Undefined variable: users in /home/mikster3420/public_html/ecom/public/admin/users.php on line 39
+[25-Sep-2016 15:44:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mikster3420/public_html/ecom/public/admin/users.php on line 39

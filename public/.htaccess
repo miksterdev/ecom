@@ -1,0 +1,5 @@
+RewriteEngine On    # Turn on the rewriting engine
+RewriteRule    ^Home/?$    index.php    [NC,L]    # Handle requests for "Home"
+RewriteRule    ^Shop/?$    shop.php    [NC,L]    # Handle requests for "Shop"
+RewriteRule    ^Checkout/?$    checkout.php    [NC,L]    # Handle requests for "Checkout"
+RewriteRule    ^Contact/?$    contact.php    [NC,L]    # Handle requests for "Contact"
